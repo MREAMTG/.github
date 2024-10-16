@@ -1,3 +1,3 @@
-## Factory Engine
+## AMTG
 
-GitHub organization for Martinrea's Factory Engine team.
+DevOps home of Martinrea's advanced manufacturing technology group.
