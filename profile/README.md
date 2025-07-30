@@ -1,3 +1,3 @@
 ## AMTG
 
-DevOps home of Martinrea's advanced manufacturing technology group.
+Home of Martinrea's Advanced Manufacturing Technology Group.
